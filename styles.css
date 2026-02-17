@@ -304,6 +304,7 @@ main {
 
 .profile--with-photo {
     display: flex;
+    flex-direction: row;
     gap: var(--spacing-md);
     align-items: flex-start;
 }
@@ -326,6 +327,7 @@ main {
 
 .profile-content {
     flex: 1;
+    text-align: left;
 }
 
 .sub-divider {
