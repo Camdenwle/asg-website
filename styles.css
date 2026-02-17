@@ -69,6 +69,10 @@ p {
     color: var(--color-text);
 }
 
+.muted {
+    color: var(--color-text-muted);
+}
+
 ul {
     margin: 0;
     padding-left: 1.25rem;
