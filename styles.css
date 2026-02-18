@@ -273,6 +273,10 @@ main {
     list-style: disc;
 }
 
+.simple-list.ordered {
+    list-style: decimal;
+}
+
 .simple-list li {
     margin-bottom: 0.35rem;
     color: var(--color-text);
